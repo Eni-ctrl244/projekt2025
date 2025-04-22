@@ -35,7 +35,6 @@ Për menaxhimin e detyrave dhe koordinimin e punës, është përdorur **GitHub 
 
 - **To Do** – Detyrat që duhen nisur.
 - **In Progress** – Detyrat që janë aktualisht në zhvillim.
-- **Code Review** – Detyrat që janë në fazën e rishikimit.
 - **Done** – Detyrat e përfunduara dhe të bashkuara me degët kryesore.
 
 ### Funksionaliteti i GitHub Projects:
